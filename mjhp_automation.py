@@ -8,7 +8,6 @@ import glob
 import subprocess
 import re
 
-
 location = "./"
 
 
